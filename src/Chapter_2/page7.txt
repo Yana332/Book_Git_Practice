@@ -3,3 +3,5 @@ Added this from GitHub
 Do not do this normaly
 
 We are practicing
+
+Java is cool
